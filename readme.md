@@ -28,7 +28,7 @@
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ Planejamento de Entrevistas e de C.
+    <p>🎉 10y+ Planejamento de Entrevistas e de Carreiras.
       <br/>
      🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
       <br/>
@@ -69,7 +69,7 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
 
 - [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
 
-- _Exemplo_:
+- _Habilidades_:
 
   - Python | Intermediário
   - SQL | Intermediário
@@ -88,9 +88,21 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
 
-- [Lista das habilidades principais a serem desenvolvidas]
+-  Fundamentos de Engenharia de Dados
 
-  - [Subhabilidades relacionadas, se aplicável]
+Habilidades
+
+Compreender o papel do engenheiro de dados
+
+Entender o ciclo de vida dos dados
+
+  - Sub-habilidades
+
+Diferença entre dados estruturados, semiestruturados e não estruturados
+
+Conceitos de ETL e ELT
+
+Qualidade, governança e linhagem de dados
 
 - _Exemplo_:
   - Data Lakehouse
@@ -102,10 +114,40 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
 
 Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+- Compreender o papel do engenheiro de dados e sua atuação no ecossistema de dados.
+  Coletar, integrar e transformar dados provenientes de diferentes fontes.
+  Desenvolver e manter pipelines de dados (ETL/ELT) de forma automatizada e escalável.
+  Utilizar linguagens de programação, especialmente Python, para processamento e manipulação de dados.
+  Criar, consultar e otimizar bancos de dados relacionais e não relacionais utilizando SQL e NoSQL.
+  Projetar e implementar Data Lakes e Data Warehouses, aplicando boas práticas de modelagem de dados.
+  Processar grandes volumes de dados utilizando ferramentas distribuídas, como Apache Spark.
+  Trabalhar com orquestração de pipelines, monitorando execuções e tratando falhas.
+  Utilizar serviços de computação em nuvem para armazenamento, processamento e segurança de dados.
+  Garantir qualidade, segurança e governança de dados, respeitando normas e legislações vigentes.
+  Monitorar, documentar e manter sistemas de dados visando desempenho e confiabilidade.
+  Desenvolver soluções de dados alinhadas às necessidades do negócio, com visão analítica e pensamento crítico.
+  
+- Após a conclusão do curso/projeto de Engenharia de Dados.
+  Pipelines de dados completos (ETL/ELT) para ingestão, transformação e carga de dados a partir de múltiplas fontes.
+  Sistemas de coleta de dados de APIs, arquivos e bancos de dados, com processamento automatizado.
+  Data Lakes organizados e escaláveis para armazenamento de grandes volumes de dados.
+  Data Warehouses modelados para análise e apoio à tomada de decisão.
+  Soluções de processamento de dados em larga escala utilizando frameworks distribuídos.
+  Pipelines de dados orquestrados e monitorados, com tratamento de falhas e reprocessamentos.
+  Sistemas de dados em nuvem para armazenamento, processamento e integração analítica.
+  Soluções de streaming de dados para processamento em tempo real.
+  Estruturas de validação e controle de qualidade de dados.
+  Ambientes de dados documentados, versionados e com boas práticas de governança.
+  Dashboards e camadas de dados prontos para consumo por times de análise e ciência de dados.
+
+Projetos integradores que simulam cenários reais de negócios, desde a ingestão até a disponibilização dos dados.
+
+
+
 
 <!--START_SECTION:footer-->
+
+
 
 <br />
 <br />
