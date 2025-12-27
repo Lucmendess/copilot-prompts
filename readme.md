@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>Criando uma Lista Estruturada de Entrevista para Área de Dados e Engenharia de Dados</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -28,7 +28,7 @@
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
+    <p>🎉 10y+ Planejamento de Entrevistas e de C.
       <br/>
      🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
       <br/>
@@ -71,15 +71,20 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
 
 - _Exemplo_:
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+  - Python | Intermediário
+  - SQL | Intermediário
+  - AWS | Intermediário
+  - Azure | Básico
+    
 
 - [Outros pré-requisitos, se aplicável]
 
 - _Exemplo_:
   - Lógica de programação
-  - Javascript
+  - Estrutura de Dados
+  - SQL
+  - Spark
+    
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
 
@@ -88,7 +93,9 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
   - [Subhabilidades relacionadas, se aplicável]
 
 - _Exemplo_:
-  - Java
+  - Data Lakehouse
+  - Data warehouse
+  - Data Lake 
     - Api Rest
 
 ## 🎯 Objetivos e Resultados Esperados
