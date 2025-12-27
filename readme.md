@@ -142,6 +142,9 @@ Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 
 Projetos integradores que simulam cenários reais de negócios, desde a ingestão até a disponibilização dos dados.
 
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/dedabcf1-5281-45a4-9adb-97bf23d8cee3" />
+
+
 
 
 
